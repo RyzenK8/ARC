@@ -7,4 +7,4 @@ Réduire le temps chargement.
 
 # Transparence des données personnelles
 Les données récoltées: Adresse IP, Navigateur internet, Définition d'écran,
-Système d'exploitation, Processeurs, Langue. Les données utiliser pour les statistiques du site
+Système d'exploitation, Processeurs, Langue. Les données utiliser pour les statistiques du site.
