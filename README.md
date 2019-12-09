@@ -1,6 +1,6 @@
 # Skyline
 
 # mise à jour de V3:
-graphique améliorer
-optimisation pour téléphone
-réduire le temps chargement
+Graphique améliorer.
+Optimisation pour téléphone.
+Réduire le temps chargement.
