@@ -1,9 +1,7 @@
 # Skyline
 
-# Mise à jour de V3:
-Graphique améliorer.
-Optimisation pour téléphone.
-Réduire le temps chargement.
+# Mise à jour de V3.1:
+- Nouveau logo du site et bot ^^
 
 # Transparence des données personnelles
 Les données récoltées: Adresse IP, Navigateur internet, Définition d'écran,
