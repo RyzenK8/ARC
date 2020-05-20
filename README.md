@@ -22,3 +22,10 @@ We comply with European GDPR law
 
 # How to install your bot
 1. Download the latest software version and decompress the file.
+2. Go to the directory to make a change : « CD ARC 2020.05/ARC/data/settings.json »
+3. Use your IDE editor if you have a graphic or if you are on the command line use nano, these are the values to modify add your token and your ID : {"token":"YOUR TOKEN","client":"CLIENT ID","tag":"$","case":"true","separator":"\\s+"} Do not forget to save your modification.
+4. It is necessary to download NodeJS to operate https://nodejs.org/
+5. Run the terminal with NodeJS enter this command « npm node bot.js »
+6. Congratulations your bot is operational
+
+(Optionnel) Si vous utilisez une VPS ou un serveur NodeJS pour effectuer des modifications remplacer index.js mettez bot.js
