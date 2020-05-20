@@ -7,13 +7,15 @@
 </a>
 
 # L'ARC
-- L'ARC c'est la modération et le divertissement: A été conçu simplifier pour aider le membre personnel. Comprend des outils anti-spam et de modération. A vous de découvrir les autres commandes.
+- ARC is moderation and entertainment: Designed to simplify to help the personal member. Includes anti-spam and moderation tools. It's up to you to discover the other commands.
 
-# Mise à jour de 2020.05:
-- Nouveau moteur de fonctionnement du bot
-- Ajoute un serveur VPS pour bot
-- Les correctif de bug et optimisation performance
+# 2020.05 update:
+- New bot operating engine
+- Add a VPS server for bot
+- Bug fixes and performance optimization
 
-# Transparence des données personnelles
-Les données récoltées: Adresse IP, Navigateur internet, Définition d'écran,
-Système d'exploitation, Processeurs, Langue. Les données utiliser pour les statistiques du site.
+# Transparency of personal data
+The data collected: IP address, Internet browser, Screen definition,
+Operating system, Processors, Language. Data used for statistics and after 7 days the data will be destroyed.
+
+We comply with European GDPR law
