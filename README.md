@@ -19,3 +19,6 @@ The data collected: IP address, Internet browser, Screen definition,
 Operating system, Processors, Language. Data used for statistics and after 7 days the data will be destroyed.
 
 We comply with European GDPR law
+
+# How to install your bot
+1. Download the latest software version and decompress the file.
