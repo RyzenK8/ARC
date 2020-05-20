@@ -28,4 +28,4 @@ We comply with European GDPR law
 5. Run the terminal with NodeJS enter this command « npm node bot.js »
 6. Congratulations your bot is operational
 
-(Optionnel) Si vous utilisez une VPS ou un serveur NodeJS pour effectuer des modifications remplacer index.js mettez bot.js
+(Optional) If you use a VPS or a NodeJS server to make changes replace index.js put bot.js
