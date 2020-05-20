@@ -1,4 +1,3 @@
-<p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text"><span rel="dct:title">L'ARC Open Source</span> by <a rel="cc:attributionURL" href="https://arcjs.ml"><span rel="cc:attributionName">RyzenK8</span></a>CC BY-NC 4.0<a href="https://creativecommons.org/licenses/by-nc/4.0"><img style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://search.creativecommons.org/static/img/cc_icon.svg" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://search.creativecommons.org/static/img/cc-nc_icon.svg" /></a></p>
 
 <a href="https://top.gg/bot/643148680618180609" >
 
@@ -29,3 +28,5 @@ We comply with European GDPR law
 6. Congratulations your bot is operational
 
 (Optional) If you use a VPS or a NodeJS server to make changes replace index.js put bot.js
+
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text"><span rel="dct:title">L'ARC Open Source</span> by <a rel="cc:attributionURL" href="https://arcjs.ml"><span rel="cc:attributionName">RyzenK8</span></a>CC BY-NC 4.0<a href="https://creativecommons.org/licenses/by-nc/4.0"><img style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://search.creativecommons.org/static/img/cc_icon.svg" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://search.creativecommons.org/static/img/cc-nc_icon.svg" /></a></p>
