@@ -8,7 +8,7 @@
 # L'ARC
 - ARC is moderation and entertainment: Designed to simplify to help the personal member. Includes anti-spam and moderation tools. It's up to you to discover the other commands.
 
-# 2020.05 update:
+# 2020.05 LTS update:
 - New bot operating engine
 - Add a VPS server for bot
 - Bug fixes and performance optimization
