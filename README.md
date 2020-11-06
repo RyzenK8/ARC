@@ -1,10 +1,4 @@
 
-<a href="https://top.gg/bot/643148680618180609" >
-
-  <img src="https://top.gg/api/widget/status/643148680618180609.svg" alt="L'ARC" />
-
-</a>
-
 # L'ARC
 - ARC is moderation and entertainment: Designed to simplify to help the personal member. Includes anti-spam and moderation tools. It's up to you to discover the other commands.
 
